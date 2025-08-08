@@ -8,25 +8,13 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashanwijeratne92&label=Profile%20views&color=0e75b6&style=flat" alt="hashanwijeratne92" /> </p>
 
-- 🔭 I’m currently working on **AI-Driven DevSecOps Automation Toolkit**
+- 👨‍💻 All of my projects are available at [github.com/hashanwijeratne92](https://github.com/hashanwijeratne92)
 
-- 🌱 I’m currently learning **AI Security & Governance (EU AI Act, NIST AI RMF)**
-
-- 👯 I’m looking to collaborate on **Open-source security tools for CI/CD pipelines**
-
-- 🤝 I’m looking for help with **Building AI-powered vulnerability management platforms**
-
-- 👨‍💻 All of my projects are available at [https://github.com/hashanwijeratne92](https://github.com/hashanwijeratne92)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/hashan-wijeratne/](https://www.linkedin.com/in/hashan-wijeratne/)
+- 📝 I regularly write articles on [linkedin](https://www.linkedin.com/in/hashan-wijeratne/)
 
 - 💬 Ask me about **DevSecOps Automation, Cloud Security (Azure & AWS), ISO 27001 Compliance & Audits, Vulnerability Assessment & Penetration Testing**
 
 - 📫 How to reach me **hashanwijeratne92@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Cs97I7a5iyB62xSQ40_iCM7SwS5AUo8L/view?usp=sharing](https://drive.google.com/file/d/1Cs97I7a5iyB62xSQ40_iCM7SwS5AUo8L/view?usp=sharing)
-
-- ⚡ Fun fact **I automate security tasks so I can have more time for coffee… and more automation. ☕**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
