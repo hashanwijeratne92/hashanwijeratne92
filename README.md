@@ -49,4 +49,4 @@
 
 ---
 
-> *"Helping people crack DevSecOps & Security with real-world knowledge. Let’s build and automate the future, one pipeline at a time!"*
+> *"Empowering teams to master DevSecOps and cybersecurity through real-world expertise — building and automating the future, one pipeline at a time!"*
