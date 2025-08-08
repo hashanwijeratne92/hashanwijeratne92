@@ -44,7 +44,7 @@
 
 🎤 Available for **Guest Sessions / Webinars**  
 🤝 Open to **Project Collaborations / YouTube Collabs**  
-💼 Offering **DevOps Consulting / Mentorship**  
+💼 Offering **DevSecOps & Security Consulting / Mentorship**  
 📧 Let’s chat: hashanwijeratne92@gmail.com  
 
 ---
