@@ -43,10 +43,12 @@
 
 ![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
 
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hashanwijeratne92&show_icons=true&locale=en" alt="hashanwijeratne92" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hashanwijeratne92&" alt="hashanwijeratne92" />
+</p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=hashanwijeratne92&show_icons=true&locale=en" alt="hashanwijeratne92" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hashanwijeratne92&" alt="hashanwijeratne92" /></p>
-
+<br clear="both">
 
 ---
 
@@ -55,6 +57,8 @@
 🎤 Available for **Guest Sessions / Webinars**  
 🤝 Open to **Project Collaborations / YouTube Collabs**  
 💼 Offering **DevOps Consulting / Mentorship**  
-📧 Let’s chat: hashanwijeratne92@gmail.com
+📧 Let’s chat: hashanwijeratne92@gmail.com  
+
+---
 
 > *"Helping people crack DevSecOps & Security with real-world knowledge. Let’s build and automate the future, one pipeline at a time!"*
