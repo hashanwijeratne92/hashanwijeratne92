@@ -1,7 +1,7 @@
 <h1 align="center">Hi Everyone 👋, I'm Hashan Wijeratne</h1>
 
 <div align="center">
-  <img src="https://github.com/hashanwijeratne92/hashanwijeratne92/blob/main/Github-Banner-Hashan.png" alt="ShieldOps Banner">
+  <img src="https://github.com/hashanwijeratne92/hashanwijeratne92/blob/main/githubbBanner.png" alt="ShieldOps Banner">
 </div>
 
 <h3 align="center">Lead DevSecOps Engineer | Cloud & AI Security | Compliance & Risk Management</h3>
