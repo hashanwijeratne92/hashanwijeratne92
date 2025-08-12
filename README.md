@@ -67,10 +67,12 @@
 
 ![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hashanwijeratne92&show_icons=true&locale=en" alt="hashanwijeratne92" />
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hashanwijeratne92&show_icons=true&locale=en" alt="hashanwijeratne92" />  
+</div>
+<div>
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hashanwijeratne92&" alt="hashanwijeratne92" />
-</p>
+</div>
 
 <br clear="both">
 
