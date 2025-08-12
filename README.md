@@ -42,7 +42,24 @@
 </p>
 
 <h3 align="left">Certifications:</h3>
-<p align="left"> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> 
+  <img src="https://github.com/hashanwijeratne92/hashanwijeratne92/blob/main/images/certifications/microsoft-certified-fundamentals-badge.svg" alt="sc-900" width="40" height="40"/> 
+  <img src="https://github.com/hashanwijeratne92/hashanwijeratne92/blob/main/images/certifications/microsoft-certified-associate-badge.svg" alt="az-104" width="40" height="40"/> 
+  <img src="https://github.com/hashanwijeratne92/hashanwijeratne92/blob/main/images/certifications/blob.png" alt="terraform" width="40" height="40"/>  
+  <img src="https://github.com/hashanwijeratne92/hashanwijeratne92/blob/main/images/certifications/image%20(1).png" alt="" width="40" height="40"/>
+  <img src="https://github.com/hashanwijeratne92/hashanwijeratne92/blob/main/images/certifications/ACCLAIM-rcce2-Logo.png" alt="" width="40" height="40"/>
+  <img src="https://github.com/hashanwijeratne92/hashanwijeratne92/blob/main/images/certifications/1__2_.png" alt="" width="40" height="40"/>
+  <img src="https://github.com/hashanwijeratne92/hashanwijeratne92/blob/main/images/certifications/image.png" alt="" width="40" height="40"/>
+  <img src="https://github.com/hashanwijeratne92/hashanwijeratne92/blob/main/images/certifications/1740119064913.jpg" alt="" width="40" height="40"/>
+  <img src="https://github.com/hashanwijeratne92/hashanwijeratne92/blob/main/images/certifications/1749438482072.jpg" alt="" width="40" height="40"/>
+  <img src="https://github.com/hashanwijeratne92/hashanwijeratne92/blob/main/images/certifications/1749438473388.jpg" alt="" width="40" height="40"/>
+  <img src="https://github.com/hashanwijeratne92/hashanwijeratne92/blob/main/images/certifications/1749438463817.jpg" alt="" width="40" height="40"/>
+  <img src="https://github.com/hashanwijeratne92/hashanwijeratne92/blob/main/images/certifications/1749438453088.jpg" alt="" width="40" height="40"/>
+  <img src="https://github.com/hashanwijeratne92/hashanwijeratne92/blob/main/images/certifications/1749438437804.jpg" alt="" width="40" height="40"/>
+  <img src="https://github.com/hashanwijeratne92/hashanwijeratne92/blob/main/images/certifications/1749438427925.jpg" alt="" width="40" height="40"/>
+  <img src="https://github.com/hashanwijeratne92/hashanwijeratne92/blob/main/images/certifications/1749438418618.jpg" alt="" width="40" height="40"/>
+  <img src="https://github.com/hashanwijeratne92/hashanwijeratne92/blob/main/images/certifications/1749438395295.jpg" alt="" width="40" height="40"/>  
+</p>
 
 ---
 
