@@ -5,7 +5,7 @@
 </div>
 
 <h3 align="center">Lead DevSecOps Engineer | Cloud & AI Security | Compliance & Risk Management</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashanwijeratne92&label=Profile%20views&color=0e75b6&style=flat" alt="hashanwijeratne92" /> </p>
 
 - 👨‍💻 All of my projects are available at [github.com/hashanwijeratne92](https://github.com/hashanwijeratne92)
