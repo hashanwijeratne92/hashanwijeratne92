@@ -23,7 +23,23 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> 
+  <img src="https://github.com/hashanwijeratne92/hashanwijeratne92/blob/main/images/tools/ansible.svg" alt="ansible" width="40" height="40"/> 
+  <img src="https://github.com/hashanwijeratne92/hashanwijeratne92/blob/main/images/tools/argocd-auto.svg" alt="argocd" width="40" height="40"/> 
+  <img src="https://github.com/hashanwijeratne92/hashanwijeratne92/blob/main/images/tools/aws-auto.svg" alt="aws" width="40" height="40"/>
+  <img src="https://github.com/hashanwijeratne92/hashanwijeratne92/blob/main/images/tools/azure-auto.svg" alt="azure" width="40" height="40"/>
+  <img src="https://github.com/hashanwijeratne92/hashanwijeratne92/blob/main/images/tools/bash-auto.svg" alt="bash" width="40" height="40"/>
+  <img src="https://github.com/hashanwijeratne92/hashanwijeratne92/blob/main/images/tools/burpsuite-auto.svg" alt="burpsuite" width="40" height="40"/>
+  <img src="https://github.com/hashanwijeratne92/hashanwijeratne92/blob/main/images/tools/docker.svg" alt="docker" width="40" height="40"/>
+  <img src="https://github.com/hashanwijeratne92/hashanwijeratne92/blob/main/images/tools/gcp-auto.svg" alt="gcp" width="40" height="40"/>
+  <img src="https://github.com/hashanwijeratne92/hashanwijeratne92/blob/main/images/tools/git-auto.svg" alt="git" width="40" height="40"/>
+   <img src="https://github.com/hashanwijeratne92/hashanwijeratne92/blob/main/images/tools/jenkins-auto.svg" alt="jenkins" width="40" height="40"/>
+  <img src="https://github.com/hashanwijeratne92/hashanwijeratne92/blob/main/images/tools/kali-auto.svg" alt="kali" width="40" height="40"/>
+  <img src="https://github.com/hashanwijeratne92/hashanwijeratne92/blob/main/images/tools/kubernetes.svg" alt="kubernetes" width="40" height="40"/>
+  <img src="https://github.com/hashanwijeratne92/hashanwijeratne92/blob/main/images/tools/python-auto.svg" alt="python-auto" width="40" height="40"/>
+  <img src="https://github.com/hashanwijeratne92/hashanwijeratne92/blob/main/images/tools/sonarqube-auto.svg" alt="sonarqube" width="40" height="40"/>
+  <img src="https://github.com/hashanwijeratne92/hashanwijeratne92/blob/main/images/tools/terraform-auto.svg" alt="terraform" width="40" height="40"/>
+</p>
 
 <h3 align="left">Certifications:</h3>
 <p align="left"> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
