@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [linkedin](https://www.linkedin.com/in/hashan-wijeratne/)
 
-- 💬 Ask me about **DevSecOps Automation, Cloud Security (Azure & AWS), ISO 27001 Compliance & Audits, Vulnerability Assessment & Penetration Testing**
+- 💬 Ask me about **DevSecOps & Security**
 
 - 📫 How to reach me **hashanwijeratne92@gmail.com**
 
